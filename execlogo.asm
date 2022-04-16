@@ -17,8 +17,6 @@ ShowLogo:
 	mov	cl, 4
 	shr	bx, cl
 	add	ax, bx		; Number of segments before logo starts
-	mov	cl, 4
-	shr	ax, cl
 	push	ax
 	mov	ax, 4
 	push	ax
