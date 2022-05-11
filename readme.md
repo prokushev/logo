@@ -1,3 +1,5 @@
+Project moved to https://github.com/osfree-project/osfree
+
 Windows 1.01 LGO format
 =======================
 
