@@ -1,4 +1,4 @@
-Project moved to https://github.com/osfree-project/osfree
+Project moved to https://github.com/osfree-project/osfree under osFree license
 
 Windows 1.01 LGO format
 =======================
